@@ -1,0 +1,16 @@
+[book]
+authors = ["Chivier"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "AI 使用教程 2026"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+edit-url-template = "https://github.com/Chivier/ai-tutorial-in-2026/edit/main/{path}"
+git-repository-url = "https://github.com/Chivier/ai-tutorial-in-2026"
+site-url = "/ai-tutorial-in-2026/"
+

@@ -1,7 +1,6 @@
 [book]
 authors = ["Chivier"]
 language = "zh-CN"
-multilingual = false
 src = "src"
 title = "AI 使用教程 2026"
 

@@ -28,10 +28,10 @@
 
 # 第 3 部分 · 进阶使用技巧
 
-- [写好提示词的几个套路](./part-3/01-prompt-patterns.md)
+- [写好提示词：先分清 system 和 user](./part-3/01-prompt-patterns.md)
 - [写作、整理、翻译实战](./part-3/02-writing-organizing-translation.md)
 - [生成图片与读图](./part-3/03-image-generation-vision.md)
-- [自定义指令 / 自定义助手](./part-3/04-custom-instructions-assistants.md)
+- [搜索与 RAG：本质是在给 prompt 补材料](./part-3/04-search-rag.md)
 - [常见坑与避雷](./part-3/05-common-pitfalls.md)
 
 # 第 4 部分 · 跨越台阶：准备开发环境
